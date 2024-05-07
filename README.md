@@ -14,14 +14,13 @@ In down time, I enjoy working in my homelab, traveling, time with loved ones, an
 
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,py,azure,docker,dotnet,github,linux,sqlite,visualstudio,vscode)](https://skillicons.dev)
 
+**Projects**
+*  **[Jokester](https://github.com/mdrummond1/Jokester)**: Cross-platform application built with .NET MAUI. Displays and tells (audibally!) jokes!
+*  **[Library Simulator webApp](https://github.com/matthewkayin/cs665)**: Simple Web app simulating a library checkout system.
 
 **Personal Learning**
 *  **[Euler](https://github.com/mdrummond1/euler)**: Answers to *some* Euler project problems.
 *  **[Design Patterns](https://github.com/mdrummond1/Design-Patterns)**: C#, Python and C++ implementations of the classic GoF design patterns.
-
-**Projects**
-*  **[Jokester](https://github.com/mdrummond1/Jokester)**: Cross-platform application built with .NET MAUI. Displays and tells (audibally!) jokes!
-*  **[Library Simulator webApp](https://github.com/matthewkayin/cs665)**: Simple Web app simulating a library checkout system.
 
 ****
 - 🔭 I’m currently working on building a mobile cooking app (no spoilers). 
