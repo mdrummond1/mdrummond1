@@ -37,6 +37,6 @@ In down time, I enjoy working in my homelab, traveling, time with loved ones, an
 
 **Connect with Me**
 
-*  **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/matthew-drummond-295a4a143)
+*  **[LinkedIn](https://www.linkedin.com/in/matthew-drummond-295a4a143)**
 
 I'm always open to connecting and learning new things! Feel free to reach out to me. Until then, keep growing!
