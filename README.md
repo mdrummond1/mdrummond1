@@ -12,7 +12,18 @@ In down time, I enjoy working in my homelab, traveling, time with loved ones, an
 
 ![mdrummond1's Stats](https://github-readme-stats.vercel.app/api?username=mdrummond1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,py,azure,docker,dotnet,github,linux,sqlite,visualstudio,vscode)](https://skillicons.dev)
+**Languages**
+
+ [![My Skills](https://skillicons.dev/icons?i=cs,html,css,py)](https://skillicons.dev)
+
+**Platforms**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,dotnet,github,linux)](https://skillicons.dev)
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,visualstudio,vscode)](https://skillicons.dev)
+
 
 **Projects**
 *  **[Jokester](https://github.com/mdrummond1/Jokester)**: Cross-platform application built with .NET MAUI. Displays and tells (audibally!) jokes!
