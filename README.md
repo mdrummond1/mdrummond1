@@ -42,9 +42,8 @@ In down time, I enjoy working in my homelab, traveling, time with loved ones, an
 
 **Technologies I'm Learning**
 
-* C#
+* .NET MAUI
 * Web technologies
-* Python
 
 **Connect with Me**
 
